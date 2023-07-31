@@ -4,7 +4,7 @@
 
 (2)9876.5432.10FE
  
-インターフェースID   96 76 54 FF FE 32 10 FE
+インターフェースID   9A 76 54 FF FE 32 10 FE
 
 (3)FFFF.FFFF.FFFF
 
